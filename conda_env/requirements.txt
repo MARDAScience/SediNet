@@ -71,7 +71,7 @@ six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
 sqlparse==0.3.1
 tensorboard @ file:///home/conda/feedstock_root/build_artifacts/tensorboard_1595378845776/work/tensorboard-2.3.0-py3-none-any.whl
 tensorboard-plugin-wit @ file:///home/conda/feedstock_root/build_artifacts/tensorboard-plugin-wit_1592816951245/work/tensorboard_plugin_wit-1.6.0.post3-py3-none-any.whl
-tensorflow==2.2.0
+tensorflow==2.3.1
 tensorflow-addons==0.10.0
 tensorflow-estimator @ file:///home/conda/feedstock_root/build_artifacts/tensorflow-estimator_1592819788686/work/tensorflow_estimator-2.2.0-py2.py3-none-any.whl
 termcolor==1.1.0
