@@ -16,7 +16,7 @@ cycler==0.10.0
 cytoolz==0.10.1
 dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1595035454217/work
 decorator==4.4.2
-Django==3.0.8
+Django==3.0.14
 gast==0.3.3
 google-auth @ file:///home/conda/feedstock_root/build_artifacts/google-auth_1595253043732/work
 google-auth-oauthlib==0.4.1
